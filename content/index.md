@@ -12,7 +12,7 @@ title: Founding Fuel Wiki
 
 Use it as a map to the archive, not a substitute for it.
 
-**By theme** — Each of the ~15 theme pages has three parts. It opens with a scene-setting paragraph naming what is broken or misunderstood about that topic in India. Then come the principles — the sharpest insights the evidence supports, each with an explanation, an India-specific reality, a named FF article as proof, and one concrete implication for Monday morning. Finally, there is FF's View — a long essay covering the core conviction, what India changes about the theme, where global best practices fail, how FF diverges from mainstream media, the evolution of thinking across a decade, the key voices, what FF is skeptical of, and what remains unresolved. A theme page is not a summary. It is an argument.
+**By theme** — Each of the ~12 theme pages has three parts. It opens with a scene-setting paragraph naming what is broken or misunderstood about that topic in India. Then come the principles — the sharpest insights the evidence supports, each with an explanation, an India-specific reality, a named FF article as proof, and one concrete implication for Monday morning. Finally, there is FF's View — a long essay covering the core conviction, what India changes about the theme, where global best practices fail, how FF diverges from mainstream media, the evolution of thinking across a decade, the key voices, what FF is skeptical of, and what remains unresolved. A theme page is not a summary. It is an argument.
 
 **By author** — Each of the 33 author profiles covers: who the person is and what they bring that others don't, their dominant thesis, their India lens, the themes they engage most deeply, their mental models, how their thinking has evolved, their distinctive voice, what they are skeptical of, and their best work. Reading an author profile is the fastest way to understand a contributor's full intellectual contribution across years of writing.
 
@@ -24,14 +24,14 @@ Use it as a map to the archive, not a substitute for it.
 
 *19 themes. Ordered by article count.*
 
-| Theme | Articles |
-|-------|----------|
+| Theme | Articles used for Synthesis |
+|-------|------------------------------|
 | [[themes/leadership-organizational-culture\|Leadership & Organizational Culture]] | 1,138 |
 | [[themes/business-entrepreneurship\|Business & Entrepreneurship]] | 757 |
 | [[themes/policy-governance-regulation\|Policy, Governance & Regulation]] | 594 |
 | [[themes/india-specific-challenges-opportunities\|India-Specific Challenges & Opportunities]] | 591 |
 | [[themes/philosophy-ethics\|Philosophy & Ethics]] | 545 |
-| [[themes/work-workplace-employment\|Work, Workplace & Employment]] | 370 |
+| [[themes/work-workplace-employment|Work, Workplace & Employment]] *(coming soon)* | 370 |
 | [[themes/economics-markets-financial-systems\|Economics, Markets & Financial Systems]] *(coming soon)* | 367 |
 | [[themes/technology-digital-disruption\|Technology & Digital Disruption]] | 356 |
 | [[themes/learning-education\|Learning & Education]] *(coming soon)* | 285 |
@@ -42,7 +42,7 @@ Use it as a map to the archive, not a substitute for it.
 | [[themes/brand-marketing-storytelling\|Brand, Marketing & Storytelling]] | 71 |
 | [[themes/media-journalism-information\|Media, Journalism & Information]] | 66 |
 | [[themes/sustainability-climate-environment\|Sustainability, Climate & Environment]] *(coming soon)* | 58 |
-| [[themes/transformation-change\|Transformation & Change]] | 34 |
+| [[themes/transformation-change|Transformation & Change]] *(coming soon)* | 34 |
 | [[themes/arts-culture-travel\|Arts, Culture & Travel]] *(coming soon)* | 25 |
 | [[themes/systems-thinking\|Systems Thinking]] | 17 |
 
