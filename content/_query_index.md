@@ -186,3 +186,17 @@ INDIA_DENSITY: 1.0
 -->
 
 ---
+
+## India-Specific Challenges & Opportunities
+
+<!--QUERY_LAYER
+THEME_ID: india-specific-challenges-opportunities
+CORE_SIGNAL: This page is a practitioner's map of operating in India as it actually exists — not the pitch-deck version. It holds both India's genuine structural achievements (UPI, Aadhaar, DPI) and its persistent failures (informal economy, healthcare underinvestment, manufacturing stagnation) simultaneously, arguing that the inability to hold both truths is the primary cause of business failure. Unlike generic India market analysis, this page diagnoses why Western templates — even partially adapted ones — fail more expensively than starting from Indian ground truth.
+ANSWERS: why businesses fail in India despite good product-market fit, how informal economy (93% of workforce) shapes business model design, why Western go-to-market playbooks fail in India, what UPI and India Stack mean for business strategy, how Aadhaar's near-destruction reveals Indian regulatory risk, why India's manufacturing GDP share has not grown since 2013, how to build unit economics for India's actual middle class, what premature imitation risk means for Indian startups, how pollution and infrastructure gaps coexist with world-class digital infrastructure, why Indian fintech assumptions about credit markets break, what India's startup ecosystem rewards versus what creates durable value, how to think about Bihar versus Bengaluru within one country, what DPI (Digital Public Infrastructure) means for operators, why India-specific org design differs from standard playbooks
+DOES_NOT_ANSWER: country-level comparisons between India and China or Southeast Asia as investment theses, granular state-by-state regulatory compliance guides, Indian macroeconomic forecasting or GDP projections, foreign direct investment policy and FEMA regulations, caste and social structure as anthropological analysis outside business context
+FF_DISTINCTIVE_ANGLE: Founding Fuel rejects the binary optimist/pessimist frame that dominates India coverage — the insight is that both the UPI success story and the Bihar health centre failure are simultaneously true and must be held together for strategy to work. The page treats premature imitation as more dangerous than ignorance, because sophistication with a foreign template produces confidence without local validity. This is practitioner knowledge from 591 articles spanning a decade, not analyst synthesis.
+CROSS_THEME_LINKS: startup-ecosystem:why Indian startups reward appearance of PMF over substance, digital-public-infrastructure:UPI and Aadhaar as both opportunity and governance risk, leadership-management:org design failures when Western structures meet Indian context, business-models:unit economics breakdown in informal-economy-dominant markets, healthcare-education:public health underinvestment as structural business constraint
+TEMPORAL_ARC: 2015:early-startup-ecosystem-optimism → 2016:demonetisation-shock-and-fintech-reset → 2017:GST-implementation-disruption → 2018:Aadhaar-Supreme-Court-crisis → 2019:NBFC-credit-crunch → 2020:COVID-exposing-informal-economy-fragility → 2021:DPI-global-recognition → 2022:startup-valuation-correction → 2023:India-Stack-export-narrative → 2024:manufacturing-PLI-reality-check → 2025:AI-layered-on-DPI → 2026:manufacturing-GDP-share-stagnation-confirmed
+KEY_VOICES: n-s-ramnath:structural-analysis-of-India-paradoxes-and-DPI-ground-truth, indrajit-gupta
+
+---
