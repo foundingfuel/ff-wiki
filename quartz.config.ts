@@ -87,6 +87,15 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
+      Plugin.Explorer({
+       filterFn: (node) => {
+         const allowed = ["authors", "themes"]
+         if (node.file) {
+           return allowed.some(folder => node.file!.filePath?.startsWith(folder + "/"))
+         }
+         return allowed.includes(node.name.toLowerCase())
+        },
+      }),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
     ],
