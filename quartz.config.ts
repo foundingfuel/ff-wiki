@@ -4,11 +4,11 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4 Configuration
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * See foundingfuel.github.io/ff-wiki for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Founding Fuel Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
